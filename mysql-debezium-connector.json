@@ -1,0 +1,15 @@
+{
+    "name": "mysql-connector",
+    "config": {
+      "connector.class": "io.debezium.connector.mysql.MySqlConnector",
+      "tasks.max": "1",
+      "database.hostname": "192.168.141.135",
+      "database.port": "3306",
+      "database.user": "ahosan",
+      "database.password": "ahosan",
+      "database.server.id": "1",
+	  "database.server.name": "mysql",
+      "database.history.kafka.bootstrap.servers": "kafka:9092",
+      "database.history.kafka.topic": "schema-changes.ahosan"
+    }
+}
