@@ -74,3 +74,4 @@ That's all
 Regards from Ahosan.
 
 Medium: 
+https://medium.com/@ahosanhabib.974/in-docker-compose-change-data-capture-cdc-with-apache-kafka-and-debezium-from-mysql-container-7365546d8e56
